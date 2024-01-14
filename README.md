@@ -5,7 +5,7 @@
 Clone the repository
 
 ```sh
-git clone https://github.com/tanjona17/chat_app.git
+git clone https://github.com/tanjona17/temp_conversion.git
 ```
 
 ### Installation
